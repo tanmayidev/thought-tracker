@@ -1,2 +1,2 @@
-# mark-it-make
-MarkItMate is a note taking app build with React and Typescript
+# thought-tracker
+ThoughtTracker is a note taking app build with React and Typescript
